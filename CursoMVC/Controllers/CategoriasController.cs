@@ -33,7 +33,7 @@ namespace CursoMVC.Controllers
             }
 
             var categoria = await _context.Categorias
-                .FirstOrDefaultAsync(m => m.id == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (categoria == null)
             {
                 return NotFound();
@@ -87,7 +87,7 @@ namespace CursoMVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("id,Descricao")] Categoria categoria)
         {
-            if (id != categoria.id)
+            if (id != categoria.Id)
             {
                 return NotFound();
             }
@@ -101,7 +101,7 @@ namespace CursoMVC.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!CategoriaExists(categoria.id))
+                    if (!CategoriaExists(categoria.Id))
                     {
                         return NotFound();
                     }
@@ -124,7 +124,7 @@ namespace CursoMVC.Controllers
             }
 
             var categoria = await _context.Categorias
-                .FirstOrDefaultAsync(m => m.id == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (categoria == null)
             {
                 return NotFound();
@@ -146,7 +146,7 @@ namespace CursoMVC.Controllers
 
         private bool CategoriaExists(int id)
         {
-            return _context.Categorias.Any(e => e.id == id);
+            return _context.Categorias.Any(e => e.Id == id);
         }
     }
 }

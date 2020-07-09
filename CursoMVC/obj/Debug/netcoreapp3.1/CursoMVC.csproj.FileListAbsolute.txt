@@ -2,7 +2,6 @@ C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\appsetting
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.exe
-C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfoInputs.cache
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfo.cs
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.RazorAssemblyInfo.cache
@@ -162,3 +161,14 @@ C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\zh-Hans\Mi
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.CoreCompileInputs.cache
 C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\Bryan\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
